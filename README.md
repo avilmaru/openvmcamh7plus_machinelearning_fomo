@@ -1,1 +1,1 @@
-# openvmcamh7plus_machinelearning_fomo
+https://mecatronicalab.es/fomo-machine-learning-con-openvm-cam-h7-plus-y-edge-impulse/
